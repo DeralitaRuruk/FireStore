@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501062938256",
+    "project_id": "webapi-3002f",
+    "storage_bucket": "webapi-3002f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501062938256:android:865567db8d3db15b14b215",
+        "android_client_info": {
+          "package_name": "com.f55119038.webapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501062938256-lbt989ls4dnspidp8djl14oqu5qau1nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYnQVf7881mCRY-F1SPQcQL-wyqBxiKxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501062938256-lbt989ls4dnspidp8djl14oqu5qau1nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
